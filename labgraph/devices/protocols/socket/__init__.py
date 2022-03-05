@@ -4,6 +4,8 @@
 
 __all__ = [
     "SOCKETMessage",
+    "SOCKETSenderNode"
 ]
 
 from .socket_message import SOCKETMessage
+from .socket_sender_node import SOCKETSenderNode
