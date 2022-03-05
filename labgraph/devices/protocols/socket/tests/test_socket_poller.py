@@ -1,4 +1,4 @@
-from socket_poller_node import SOCKETPollerNode
+from ..socket_poller_node import SOCKETPollerNode
 
 # Intial test to verify if the poller_node works
 mySocketPoller = SOCKETPollerNode()
